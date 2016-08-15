@@ -1,0 +1,22 @@
+{
+  "varstmt"       : true,
+  "esversion"     : 6,
+  "moz"           : true,
+  "globalstrict"  : false,
+  "browser"       : false,
+  "node"          : true,
+  "es5"           : true,
+  "camelcase"     : true,
+  "eqeqeq"        : true,
+  "indent"        : 2,
+  "latedef"       : true,
+  "newcap"        : false,
+  "quotmark"      : "single",
+  "strict"        : false,
+  "undef"         : true,
+  "unused"        : true,
+  "eqnull"        : true,
+  "devel"         : true,
+  "trailing"      : true,
+  "curly"         : true
+}

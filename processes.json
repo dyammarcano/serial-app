@@ -1,0 +1,9 @@
+{
+  "apps": [{
+    "name"            : "SerialApp",
+    "script"          : "./app.js",
+    "exec_mode"       : "fork",
+    "ignoreWatch"     : ["[\\/\\\\]\\./", "node_modules"],
+    "watch": false
+  }]
+}

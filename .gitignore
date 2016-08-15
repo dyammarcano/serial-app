@@ -1,0 +1,18 @@
+################################################
+###############  .gitignore   ##################
+################################################
+
+node_modules
+.git
+.env
+*.log
+*.out
+*.pid
+npm-debug.log
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+.idea
+.node_history

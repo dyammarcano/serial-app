@@ -1,0 +1,19 @@
+{
+  "name": "serial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "install": "pm2 start processes.json && pm2 save"
+  },
+  "author": "Dyam Marcano <dyam.marcano@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "serialport": "^4.0.1",
+    "sleep": "^3.0.1",
+    "socket.io": "^1.4.8",
+    "wiring-pi": "^2.1.1"
+  }
+}
